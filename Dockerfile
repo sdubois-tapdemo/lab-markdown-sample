@@ -1,4 +1,4 @@
-FROM quay.io/eduk8s/base-environment:master
+FROM harbor.apps-contour.vsptap.sschmidt.ch/library/tap-packages@sha256:967...fe
 
 COPY --chown=1001:0 . /home/eduk8s/
 
