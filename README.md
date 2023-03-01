@@ -1,7 +1,7 @@
 LAB - Markdown Sample
 =====================
 
-steve: changed to my git
+Cloned from https://github.com/pivotal-steve-schmidt/lab-markdown-sample.git
 
 Sample workshop content using Markdown formatting for pages.
 
@@ -9,8 +9,8 @@ If you already have the Educates operator installed and configured, to
 deploy and view this sample workshop, run:
 
 ```
-kubectl apply -f https://raw.githubusercontent.com/pivotal-steve-schmidt/lab-markdown-sample/master/resources/workshop.yaml
-kubectl apply -f https://raw.githubusercontent.com/pivotal-steve-schmidt/lab-markdown-sample/master/resources/training-portal.yaml
+kubectl apply -f https://raw.githubusercontent.com/sdubois-tapdemo/lab-markdown-sample/main/resources/workshop.yaml
+kubectl apply -f https://raw.githubusercontent.com/sdubois-tapdemo/lab-markdown-sample/main/resources/training-portal.yaml
 ```
 
 This will deploy a training portal hosting just this workshop. To get the
