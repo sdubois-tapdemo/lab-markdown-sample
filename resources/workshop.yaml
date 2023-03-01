@@ -10,8 +10,7 @@ spec:
   duration: 15m
   url: https://github.com/pivotal-steve-schmidt/lab-markdown-sample
   content:
-    #image: harbor.aps-contour.vsptap.sschmidt.ch/library/tap-packages@sha256:967...fe
-    files: github.com/pivotal-steve-schmidt/lab-markdown-sample
+    files: github.com/sdubois-tapdemo/lab-markdown-sample
   session:
     namespaces:
       budget: small
